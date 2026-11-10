@@ -1,0 +1,53 @@
+1. Circle Area Calculator
+
+File: circle_area.py
+
+Requests a circle's radius.
+
+Validates that the radius is a number and is not negative.
+
+Calculates area using the formula: π × radius².
+
+2. Temperature Converter
+
+File: temperature_converter.py
+
+Accepts a temperature in Celsius.
+
+Converts Celsius to Fahrenheit using the formula: (Celsius × 9/5) + 32.
+
+Demonstrates uppercase formatting and word counting.
+
+3. Simple Interest Calculator
+
+File: simple_interest.py
+
+Requests principal, interest rate, and time.
+
+Calculates simple interest using: (Principal × Rate × Time) / 100.
+
+Displays the interest and total amount.
+
+4. First Ten U.S. Presidents
+
+File: presidents_list.py
+
+Stores the first ten U.S. presidents and their presidential terms.
+
+Uses both a for loop and a while loop to display the information.
+
+Adds an asterisk to names with a last name beginning with A.
+
+Demonstrates string searching and list processing.
+
+5. String Analyzer
+
+File: string_analyzer.py
+
+Accepts a sentence from the user.
+
+Demonstrates uppercase, lowercase, reversing, slicing, and searching.
+
+Counts words and characters.
+
+Checks whether the sentence is a palindrome.
